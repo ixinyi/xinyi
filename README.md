@@ -1,2 +1,2 @@
 # xinyi
-!0.jpg](image/01.png)
+!1.JPEG](image/1.JPEG)
