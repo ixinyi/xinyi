@@ -93,4 +93,3 @@
 2PNvp1-cNsQibdqPDF4dum90CmHNKuwUIVIhCFdy5F0sKq2apC82IhbCHtwxxbUgz
 ```
 ![18.JPEG](image/18.JPEG)
-19
